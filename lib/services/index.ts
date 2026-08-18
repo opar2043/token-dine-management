@@ -1,0 +1,12 @@
+export { authService } from "./auth.route";
+export { usersService } from "./users.route";
+export { clientsService } from "./clients.route";
+export { productsService } from "./products.route";
+export { salesService } from "./sales.route";
+export { attendanceService } from "./attendance.route";
+export { complaintsService } from "./complaints.route";
+export { bonusesService } from "./bonuses.route";
+export { tablesService } from "./tables.route";
+export { progressService } from "./progress.route";
+export { analyticsService } from "./analytics.route";
+export { clientBonusesService } from "./client-bonuses.route";
