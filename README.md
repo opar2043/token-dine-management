@@ -9,6 +9,7 @@ Restaurant management dashboard for **Token Dine**. Built with **Next.js 14 (App
 - **Design System:** See [design.md](./design.md) for full spec
 
 ---
+<img width="1363" height="638" alt="image" src="https://github.com/user-attachments/assets/31604ff4-128f-44c7-902a-866be5aceb46" />
 
 ## 1. Project Overview
 
