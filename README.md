@@ -2,7 +2,7 @@
 
 Restaurant management dashboard for **Token Dine**. Built with **Next.js 14 (App Router) + TypeScript + Tailwind CSS**. Three role-based dashboards (Admin / Manager / Worker), fully wired to the live REST backend.
 
-- **Backend API:** `https://tokendinerestaurent.vercel.app`
+- **Frontend API:** `https://tokendinerestaurent.vercel.app`
 - **Stack:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Axios
 - **Theming:** Light / Dark mode toggle (persisted)
 - **Font:** Inter via `next/font/google`
