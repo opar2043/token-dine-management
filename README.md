@@ -1,4 +1,4 @@
-# Token Dine — Frontend
+# Token Dine — Restaurant Management 
 
 Restaurant management dashboard for **Token Dine**. Built with **Next.js 14 (App Router) + TypeScript + Tailwind CSS**. Three role-based dashboards (Admin / Manager / Worker), fully wired to the live REST backend.
 
